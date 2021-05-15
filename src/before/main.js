@@ -1,4 +1,4 @@
-const { statement } = require("./statement")
+import statement from "./statement.js"
 const plays = {
     "hamlet": { "name": "Hamlet", "type": "tragedy" },
     "as-like": { "name": "As You Like It", "type": "comedy" },
