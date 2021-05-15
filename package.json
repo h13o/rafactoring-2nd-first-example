@@ -1,0 +1,19 @@
+{
+  "name": "refactoring-2nd-first-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h13o/rafactoring-2nd-first-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h13o/rafactoring-2nd-first-example/issues"
+  },
+  "homepage": "https://github.com/h13o/rafactoring-2nd-first-example#readme"
+}
