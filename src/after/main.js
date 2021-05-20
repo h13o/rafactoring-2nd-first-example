@@ -1,4 +1,4 @@
-import statement from "./statement.js"
+import statement, { htmlStatement } from "./statement.js"
 const plays = {
     "hamlet": { "name": "Hamlet", "type": "tragedy" },
     "as-like": { "name": "As You Like It", "type": "comedy" },
@@ -25,3 +25,4 @@ const invoice =
 }
 
 console.log(statement(invoice, plays));
+console.log(htmlStatement(invoice, plays));
